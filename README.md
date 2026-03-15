@@ -2,7 +2,7 @@
 An automated Crisis Command Center built in Power BI. Transforms a rolling 30-day live USGS API feed into actionable threat intelligence using custom M-code and DAX risk modeling.
 
 ## 📊 Live Interactive Dashboard
-[![Dashboard Preview]([dashboard-preview.png](https://github.com/prakashmyktm-create/USGS-Seismic-Operations-Dashboard/blob/main/Dashboard.png))]
+[![Dashboard Preview]((https://github.com/prakashmyktm-create/USGS-Seismic-Operations-Dashboard/blob/main/Dashboard.png))]
 
 *Note: If the interactive dashboard does not load below, please click the image above to view the live version on GitHub Pages.*
 
