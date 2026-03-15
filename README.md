@@ -1,8 +1,6 @@
 # USGS-Seismic-Operations-Dashboard
 An automated Crisis Command Center built in Power BI. Transforms a rolling 30-day live USGS API feed into actionable threat intelligence using custom M-code and DAX risk modeling.
 
-<iframe title="USGS-Seismic-Operations-Dashboard" width="100%" height="600" src="https://app.powerbi.com/reportEmbed?reportId=d04a1959-5c6a-41b5-a554-bd54c6da195a&autoAuth=true&embeddedDemo=true" frameborder="0" allowFullScreen="true"></iframe>
-
 Markdown
 # Global Seismic Threat Intelligence & Operations Monitor
 
